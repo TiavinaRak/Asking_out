@@ -40,6 +40,6 @@ var i = 0;
         btn.style.display = "none";
         yes.style.display = "none";
         msg.innerHTML = `I'll text you for the time!`
-        img.setAttribute("src", "images/gif/date.gif");
+        img.setAttribute("src", "images/GIF/date.gif");
     })
 }
