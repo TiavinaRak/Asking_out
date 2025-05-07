@@ -4,7 +4,7 @@ A simple project I built just for fun! this is a website you can use to ask some
 
 ## 🚀 Features
 - "No" button moves everytime the mouse is over
-- the text and images changes when "Yes" buton is clicked
+- the text and images changes when "Yes" button is clicked
 
 ## 🔧 Installation
 Follow these steps to set up the project:
